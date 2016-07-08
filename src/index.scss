@@ -1,0 +1,35 @@
+$bootstrap-sass-asset-helper: true;
+
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+$footer-height: 32px;
+
+html, body {
+    height: 100%;
+}
+
+#app {
+    position: relative;
+    min-height: 100%;
+}
+
+#content {
+    padding-bottom: $footer-height;
+}
+
+#msg {
+    text-align: center;
+}
+
+#map {
+    height: 256px;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: $footer-height;
+    line-height: $footer-height;
+    text-align: center;
+}
