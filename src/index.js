@@ -4,6 +4,7 @@ import 'index.scss';
 import {Promise} from 'es6-promise';
 import qs from 'qs';
 import Spinner from 'spin.js';
+import fetch from 'isomorphic-fetch';
 
 /**
  * @enum
