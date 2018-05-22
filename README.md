@@ -4,3 +4,5 @@
 ### Credits
 - [Bootstrap](http://getbootstrap.com/)
 - [Webpack](https://webpack.github.io/)
+- [Google Maps](https://developers.google.com/maps/documentation/)
+- [Uber](https://developer.uber.com/)
